@@ -1,152 +1,186 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Vincess Dongmo",
+    "email": "vincess.dongmo@gmail.com",
+    "phone": "+237680232764",
+    "website": "https://hashirama21.github.io",
+    "summary": "Machine Learning researcher with interdisciplinary training in Physics and Artificial Intelligence, focusing on scientific AI systems for biomedical imaging, biosensing, and large-scale spatiotemporal modeling.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Douala",
+      "countryCode": "CM",
+      "region": "Cameroon"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "HASHIRAMA21",
+        "url": "https://github.com/HASHIRAMA21"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "vincess-dongmo-83818b235",
+        "url": "https://linkedin.com/in/vincess-dongmo-83818b235"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Orange Cameroon",
+      "position": "SI Engineer / Data Scientist",
+      "website": "",
+      "startDate": "2025-11-01",
+      "endDate": "",
+      "summary": "Leading data and analytics workstream for NextGen, a large-scale migration of the Orange Money platform from Tango to Huawei Mobile Money (HMM).",
+      "highlights": [
+        "Designed and governed end-to-end data migration strategies ensuring data integrity, consistency, and regulatory compliance",
+        "Defined data models, transformation rules, and reconciliation frameworks for customer, transaction, wallet, and settlement data",
+        "Developed data quality controls, validation pipelines, and anomaly detection mechanisms for high-volume financial data",
+        "Provided technical leadership on data architecture, analytics, and decision-support use cases"
+      ]
+    },
+    {
+      "company": "DME Systems",
+      "position": "Lead Machine Learning Engineer",
+      "website": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-10-01",
+      "summary": "Built GPU-accelerated recommender systems and multi-agent ML pipelines for a sports betting platform.",
+      "highlights": [
+        "Built GPU-accelerated recommender systems using NVIDIA Merlin delivering personalised event and odds recommendations in real time",
+        "Architected end-to-end ML pipeline: data ingestion, feature engineering, model training, deployment, and real-time inference",
+        "Designed multi-agent systems to optimise live betting decision-making via real-time analytics and predictive modelling",
+        "Led cross-functional team of 2 Data Scientists; established best practices for model deployment and CI/CD pipelines"
+      ]
+    },
+    {
+      "company": "AI Technologies for Africa (AITECAF)",
+      "position": "Machine Learning Engineer — Public Procurement Fraud Detection",
+      "website": "",
+      "startDate": "2024-07-01",
+      "endDate": "2024-12-01",
+      "summary": "Designed and deployed GNN models to identify collusive bidding and anomalies in Cameroon's public procurement system.",
+      "highlights": [
+        "Designed and deployed GNN models (GCN, GAT, R-GCN) to identify collusive bidding and anomalies in public procurement",
+        "Modelled heterogeneous graphs with nodes representing suppliers, contracts, and government agencies",
+        "Built robust ETL pipelines integrating ePPP, CPPA, and corporate registry data; performed entity resolution on 30%+ missing data",
+        "Collaborated with Cameroon's Supreme Audit Institution to co-design an AI-driven auditing assistant"
+      ]
+    },
+    {
+      "company": "SmartDS",
+      "position": "Lead Machine Learning & Computer Vision Engineer",
+      "website": "",
+      "startDate": "2023-01-01",
+      "endDate": "2024-07-01",
+      "summary": "Led development of deep learning systems for real-time video analysis and autonomous drone delivery.",
+      "highlights": [
+        "Led development of deep learning framework enabling real-time video stream analysis; improved surveillance capabilities by 40%",
+        "Deployed production system handling 1,000 requests/second with <100ms response time using Docker and Kubernetes",
+        "Engineered autonomous drone delivery system with advanced computer vision navigation; reduced delivery times by 30%",
+        "Established CI/CD pipelines for ML model deployment; mentored junior developers and data scientists"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "National Advanced School of Engineering of Yaoundé (ENSPY)",
+      "area": "Computer Engineering — Artificial Intelligence & Machine Learning",
+      "studyType": "M.Sc.",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "endDate": "",
+      "gpa": "3.0/4.0",
+      "courses": ["Deep Learning", "Computer Vision", "NLP", "Distributed Systems", "Software Engineering"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "University of Dschang",
+      "area": "Physics — Computational Physics & Numerical Simulation",
+      "studyType": "B.Sc.",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "endDate": "",
+      "gpa": "First Class Honours",
+      "courses": ["Quantum Mechanics", "Electromagnetism", "Statistical Physics", "Numerical Methods", "Scientific Computing"]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Machine Learning & AI",
+      "level": "",
+      "keywords": ["Deep Learning", "Diffusion Models", "Flow Matching", "Graph Neural Networks", "Computer Vision", "NLP", "Reinforcement Learning", "MLOps"]
+    },
+    {
+      "name": "Scientific Computing",
+      "level": "",
+      "keywords": ["Physics-Informed ML", "Monte Carlo Methods", "Numerical Simulation", "Statistical Physics Modelling", "Probabilistic Modelling"]
+    },
+    {
+      "name": "Biomedical & Imaging",
+      "level": "",
+      "keywords": ["Medical Image Synthesis (MRI)", "Generative Models", "Biomedical Signal Processing", "SSIM/PSNR/FID"]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "C/C++", "CUDA", "Java", "JavaScript/TypeScript"]
+    },
+    {
+      "name": "Frameworks & Tools",
+      "level": "",
+      "keywords": ["PyTorch", "PyTorch Geometric", "TensorFlow", "OpenCV", "Qiskit", "NVIDIA DeepStream/Merlin", "Kafka", "Airflow", "Flink"]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "",
+      "keywords": ["Docker", "Kubernetes", "CI/CD Pipelines", "AWS", "Azure", "Microservices"]
+    },
+    {
+      "name": "Databases & Data",
+      "level": "",
+      "keywords": ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch", "Apache Spark", "Zarr", "GRIB2"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {"name": "Physics-Informed Machine Learning"},
+    {"name": "Biomedical AI & MRI Synthesis"},
+    {"name": "Climate AI & Earth System Modelling"},
+    {"name": "Edge AI & Resource-Constrained Systems"},
+    {"name": "Uncertainty Quantification"}
+  ],
+  "references": [
+    {
+      "name": "Prof. David YEMELE",
+      "reference": "Vice Dean, Faculty of Science, Dept. of Physics, University of Dschang. Email: dyemele@yahoo.fr"
+    },
+    {
+      "name": "Prof. Thomas B. BOUETOU",
+      "reference": "Head of Department, Computer Engineering, ENSP, University of Yaoundé I. Email: tbouetou@gmail.com"
+    },
+    {
+      "name": "Prof. Georges E. KOUAMOU",
+      "reference": "Professor, Department of Computer Engineering, ENSP, University of Yaoundé I. Email: georges.kouamou@gmail.com"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Leveraging Machine Learning for Enhanced Financial Inclusion: Revolutionizing Agricultural Banking in Central Africa",
+      "publisher": "OpenReview",
+      "releaseDate": "2025-08-13",
+      "website": "https://openreview.net/forum?id=bX7aKOaMGt",
+      "summary": "Proposed a credit scoring model using alternative data (mobile money transactions, crop yields, weather, demographics) for rural farmers in Central Africa. Compared ML approaches against logistic regression baselines; demonstrated significantly higher loan approval rates, lower default risk, and improved operational efficiency."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
