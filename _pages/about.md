@@ -9,7 +9,7 @@ redirect_from:
 
 Machine Learning researcher with interdisciplinary training in Physics and Artificial Intelligence, focusing on scientific AI systems for biomedical imaging, biosensing, and large-scale spatiotemporal modeling. Experienced in deploying production-grade ML systems and developing generative models for medical imaging and Earth system data.
 
-Current research centers on generating synthetic T1CE MRI images from non-contrast MRI sequences using diffusion models and flow matching, comparing 2D slice-based and 3D volume-based architectures (Fatima Institute for Global AI Research, 2026). Research interests span **physics-informed machine learning**, **biomedical signal processing**, **climate AI**, and **edge AI systems**.
+Current research centers on generating synthetic T1CE MRI images from non-contrast MRI sequences using diffusion models and flow matching, comparing 2D slice-based and 3D volume-based architectures (Fatima Institute for Global AI Research, 2026).
 
 ## Research Interests
 
