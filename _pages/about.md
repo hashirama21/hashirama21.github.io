@@ -28,6 +28,9 @@ Current research centers on generating synthetic T1CE MRI images from non-contra
 National Advanced School of Engineering of Yaoundé (ENSPY) — GPA: 3.0/4.0, *High Distinction*  
 Thesis: *"Design and Implementation of a Computer Vision Solution for Security and Surveillance in a Smart City"*
 
+**Master 1 in Physical Sciences** *(M2 in progress)*  
+University of Dschang
+
 **B.Sc. in Physics**  
 University of Dschang — *First Class Honours*  
 Specialisation: Computational Physics & Numerical Simulation  
